@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/khaleesi-caps.jpg" alt="Khaleesi">
+</p>
+
 # Khaleesi Dönüştürücü
 
 Bu proje, kullanıcıların metinlerini Khaleesi tarzında dönüştürmelerine olanak tanıyan basit bir web uygulamasıdır.
