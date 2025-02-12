@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khaleesi Dönüştürücü</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="image-container">
+        <img src="assets/khaleesi-caps.jpg" alt="Khaleesi">
+    </div>
+
+    <div class="input-container">
+        <textarea id="metin" placeholder="Metninizi buraya girin..."></textarea>
+        <button onclick="metniDonustur()">Dönüştür</button>
+        <div class="sonuc-container">
+            <div id="sonuc"></div>
+            <button class="copy-button" onclick="metniKopyala()">Kopyala</button>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+
+</body>
+
+</html>
