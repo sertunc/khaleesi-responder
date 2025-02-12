@@ -26,31 +26,6 @@ Bu proje, kullanıcıların metinlerini Khaleesi tarzında dönüştürmelerine 
    cd <project-directory>
    ```
 
-3. Gerekli bağımlılıkları yükleyin (eğer varsa):
-
-   ```bash
-   npm install
-   ```
-
-## Kullanım
-
-1. Projeyi yerel sunucuda çalıştırın:
-
-   ```bash
-   npm start
-   ```
-
-2. Tarayıcınızda `http://localhost:3000` adresine gidin.
-
-3. Metninizi girin ve "Dönüştür" butonuna tıklayın.
-
-## Katkıda Bulunma
-
-1. Bu projeyi fork edin.
-2. Yeni bir özellik dalı oluşturun (`git checkout -b yeni-ozellik`).
-3. Değişikliklerinizi commit edin (`git commit -m 'Yeni özellik ekle'`).
-4. Dalınızı push edin (`git push origin yeni-ozellik`).
-5. Bir Pull Request açın.
 
 ## Lisans
 
