@@ -1,3 +1,4 @@
+/* General Styles */
 body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -6,16 +7,18 @@ body {
     margin: 20px;
 }
 
+/* Image Styles */
 .image-container {
     margin: 20px 0;
     text-align: center;
 }
 
 img {
-    max-width: 100%;
+    max-width: 96%;
     height: auto;
 }
 
+/* Input Styles */
 .input-container {
     margin: 20px 0;
     width: 80%;
@@ -29,6 +32,7 @@ textarea {
     padding: 10px;
 }
 
+/* Button Styles */
 button {
     padding: 10px 20px;
     background-color: #4CAF50;
@@ -42,6 +46,7 @@ button:hover {
     background-color: #45a049;
 }
 
+/* Result Styles */
 #sonuc {
     margin-top: 20px;
     padding: 10px;
@@ -55,6 +60,7 @@ button:hover {
     width: 100%;
 }
 
+/* Copy Button Styles */
 .copy-button {
     margin-top: 10px;
     background-color: #007bff;
